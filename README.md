@@ -1,2 +1,2 @@
 # calculator
-A custom built calculator
+A custom built calculator by Chris
